@@ -6,3 +6,8 @@
 
 # Ing en Sistemas Computacionales - Tesjo
 
+Alumna: Estefanía LOVERA CRUZ. 
+Grupo: IC-0202
+Profesor: JUAN ALBERTO ANTONIO VELÁZQUEZ.
+
+

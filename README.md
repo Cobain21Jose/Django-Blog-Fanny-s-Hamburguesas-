@@ -10,8 +10,13 @@
 **Grupo:** IC-0202  
 **Profesor:** Juan Alberto Antonio Velázquez
 
-# Blog en Django
+<p align="center">
+  <a href="https://www.djangoproject.com">
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django Logo">
+  </a>
+</p>
 
+# Blog en Django
 Este proyecto es un blog desarrollado con Django. Fue realizado por la alumna Estefanía Lovera Cruz del grupo IC-0202 bajo la supervisión del profesor Juan Alberto Antonio Velázquez.
 
 ## Tabla de Contenidos
